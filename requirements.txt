@@ -1,1 +1,5 @@
-
+streamlit==1.34.0
+groq
+PyPDF2
+numpy
+sklearn
