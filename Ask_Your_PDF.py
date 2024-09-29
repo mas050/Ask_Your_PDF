@@ -10,7 +10,7 @@ from groq import Groq
 import os
 
 # Groq API credentials
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "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"
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 # Choice of LLM
